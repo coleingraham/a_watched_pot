@@ -1,0 +1,57 @@
+{
+    "shop": {
+        "prompt": "Shop",
+        "shop": {
+            "actions": [
+                {
+                    "action": {
+                        "en-us": "leave"
+                    },
+                    "scene": "town"
+                }
+            ],
+            "text": {
+                "en-us": "Yes?"
+            },
+            "unknown": {
+                "en-us": "Come again?"
+            },
+            "thanks": {
+                "en-us": "Thank you for your business"
+            },
+            "items": [
+                {
+                    "name": {
+                        "en-us": "Beer"
+                    },
+                    "item": {
+                        "worth": 5,
+                        "name": {
+                            "en-us": "Beer"
+                        },
+                        "description": {
+                            "en-us": "Now we've talking!"
+                        }
+                    }
+                },
+                {
+                    "name": {
+                        "en-us": "Pizza"
+                    },
+                    "item": {
+                        "worth": 10,
+                        "name": {
+                            "en-us": "Pizza"
+                        },
+                        "description": {
+                            "en-us": "It's a pizza"
+                        }
+                    }
+                }
+            ],
+            "failed": {
+                "en-us": "You don't have enough money for that!"
+            }
+        }
+    }
+}

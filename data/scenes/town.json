@@ -1,0 +1,21 @@
+{
+    "town": {
+        "prompt": "Town",
+        "scene": {
+            "actions": [
+                {
+                    "action": {
+                        "en-us": "shop"
+                    },
+                    "scene": "shop"
+                }
+            ],
+            "text": {
+                "en-us": "This is the town. There is a store here."
+            },
+            "unknown": {
+                "en-us": "I don't understand"
+            }
+        }
+    }
+}
